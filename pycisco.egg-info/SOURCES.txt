@@ -1,0 +1,12 @@
+README
+setup.py
+pycisco/__init__.py
+pycisco/cipimage.py
+pycisco/cmpush.py
+pycisco/cmxml.py
+pycisco.egg-info/PKG-INFO
+pycisco.egg-info/SOURCES.txt
+pycisco.egg-info/dependency_links.txt
+pycisco.egg-info/entry_points.txt
+pycisco.egg-info/requires.txt
+pycisco.egg-info/top_level.txt

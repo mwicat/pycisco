@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: pycisco
+Version: 0.0.1
+Summary: Routines associates with Cisco VOIP phones
+Home-page: UNKNOWN
+Author: Marek Wiewiorski
+Author-email: mwicat@gmail.com
+License: GPLv3
+Description: cmpush - helpers for pushing commands to phone
+        cmxml - templates and routines for manipulating Cisco XML
+        
+Platform: UNKNOWN
